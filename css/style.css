@@ -159,14 +159,14 @@ background-color: transparent;
 
 .nav-items {
 width: 50%;
-margin-left: 10%;
+margin-left: 20%;
 height: 100%;
 display: flex;
 
 }
 
 .nav-items p {
-    padding: 1rem;
+    padding: 1.3rem;
 /*    padding-top: 2rem;*/
     color: white;
 /*    font-family: "Bodoni Moda", serif;*/
